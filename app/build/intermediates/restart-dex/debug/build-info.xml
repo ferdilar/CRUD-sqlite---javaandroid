@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="hdpi"
+    format="7"
+    timestamp="344955682615804" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_a56e9dd4c90bf7079c075061d78cff57c1577e98\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_23d1f5a2b2d902bcdc4b033dc27311cd3c2f3b64\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_f8bb3ae1d3694dd1972d77766887721de83ebe06\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_758b0b741db6f2445f8d1f99340740e8fbc4c185\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_e777cf75b8e505397c7af444270bf9fe00f887c3\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d602a023dea899505958b21654f620c93a0b68c4\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_45c9fb3507759f7455163a137617cd649c554d91\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_8936a40cd3d5caae9749abc30e3b1f4fa6c74c3d\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+        type="DEX" />
+
+    <build timestamp="344564570989045" >
+        <artifact
+            location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="344955682615804" >
+        <artifact
+            location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_a56e9dd4c90bf7079c075061d78cff57c1577e98\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_23d1f5a2b2d902bcdc4b033dc27311cd3c2f3b64\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_f8bb3ae1d3694dd1972d77766887721de83ebe06\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_758b0b741db6f2445f8d1f99340740e8fbc4c185\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_e777cf75b8e505397c7af444270bf9fe00f887c3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d602a023dea899505958b21654f620c93a0b68c4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_45c9fb3507759f7455163a137617cd649c554d91\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_8936a40cd3d5caae9749abc30e3b1f4fa6c74c3d\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Semester 8\Ssst\code_fer\CRUD\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
